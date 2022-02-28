@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-kapil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapilchoudhary)](https://www.linkedin.com/in/kapilchoudhary)  [![Website Badge](https://img.shields.io/badge/-prokapil-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://prokapil.vercel.app/)](https://kapil.pro/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-prokapil-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kapilsaini@jklu.edu.com)](mailto:probhavsh@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-prokapilsaini-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prokapilsaini)](https://twitter.com/prokapilsaini)  [![Gmail Badge](https://img.shields.io/badge/-prokapil-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kapilsaini@jklu.edu.com)](mailto:probhavsh@gmail.com)
 
 # About🧐
 
