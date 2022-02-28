@@ -1,9 +1,9 @@
 
-# Hi! Bhavesh Here👋
+# Hi! kapil Here👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.pro/)
+[![Linkedin Badge](https://img.shields.io/badge/-kapil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapilchoudhary)](https://www.linkedin.com/in/kapilchoudhary)  [![Website Badge](https://img.shields.io/badge/-prokapil-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://prokapil.vercel.app/)](https://kapil.pro/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-prokapil-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kapilsaini@jklu.edu.com)](mailto:probhavsh@gmail.com)
 
 # About🧐
 
@@ -105,14 +105,14 @@
 <br/>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=proBhavesh&theme=gruvbox" alt="Bhavesh"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=prokapil&theme=gruvbox" alt="kapil"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proBhavesh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=proBhavesh&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prokapil&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prokapil&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
